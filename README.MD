@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MeetX Backend API
 
 A REST API for a basic activity booking system using Node.js, Express, MongoDB, and JWT.
